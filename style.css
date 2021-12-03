@@ -1,6 +1,6 @@
 .header
 {
-    background-image: url(./images/header.webp);
+    background-image: url(./header.webp);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding-bottom: 300px;
@@ -272,7 +272,7 @@ ul
 }
 .footer
 {
-    background-image: url(./images/footer.webp);
+    background-image: url(./footer.webp);
     background-size: 100% 100%;
     padding-bottom: 150px;
     padding-top: 300px;
@@ -337,7 +337,7 @@ ul
 @media only screen and (max-width: 768px){
     .header
     {
-        background-image: url(./images/header.webp);
+        background-image: url(./header.webp);
         background-repeat: no-repeat;
         background-size: auto 100%;
         padding-bottom: 150px;
@@ -367,7 +367,7 @@ ul
         text-align: center;
     }
     .footer {
-        background-image: url(./images/footer.webp);
+        background-image: url(./footer.webp);
         background-size: auto 100%;
         padding-bottom: 50px;
         padding-top: 300px;
